@@ -1,0 +1,10 @@
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\bin\Debug\DentalDataTransfer.exe.config
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\bin\Debug\DentalDataTransfer.exe
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\bin\Debug\DentalDataTransfer.pdb
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\obj\Debug\DentalDataTransfer.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\obj\Debug\DentalDataTransfer.Form1.resources
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\obj\Debug\DentalDataTransfer.Properties.Resources.resources
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\obj\Debug\DentalDataTransfer.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\obj\Debug\DentalDataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\obj\Debug\DentalDataTransfer.exe
+C:\Users\muhammed\Desktop\DentalDataTransfer\DentalDataTransfer\obj\Debug\DentalDataTransfer.pdb
