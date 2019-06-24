@@ -380,13 +380,13 @@ VALUES (
 
                         command.Parameters.AddWithValue("@p1", ad);
                         command.Parameters.AddWithValue("@p2", soyad);
-                        command.Parameters.AddWithValue("@p3", bp + " - " + telefonCep + " - " + hesapKapandi);
+                        command.Parameters.AddWithValue("@p3", bp + " - " + telefonEv + " - " + telefonCep + " - " + hesapKapandi);
                         command.Parameters.AddWithValue("@p4", telefonEv);
                         command.Parameters.AddWithValue("@p5", kitap);
                         command.Parameters.AddWithValue("@p6", sayfa);
                         command.Parameters.AddWithValue("@p7", hesapKapandi);
                         command.Parameters.AddWithValue("@p8", "Excelden aktarıldı.");
-                        command.Parameters.AddWithValue("@p9", "02.02.2019 00:00");
+                        command.Parameters.AddWithValue("@p9", "29.05.2019 00:00");
                         command.Parameters.AddWithValue("@p10", "true");
 
                         command.ExecuteNonQuery();
